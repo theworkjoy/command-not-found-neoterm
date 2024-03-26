@@ -1,4 +1,4 @@
-![Command Not Found NeoTerm](https://raw.githubusercontent.com/juic3b0x/command-not-found-neoterm/main/screen-20240304-011800.webp)
+![Command Not Found NeoTerm](https://raw.githubusercontent.com/theworkjoy/command-not-found-neoterm/main/screen-20240304-011800.webp)
 
 ## Table of Contents
 1. [Adding Repo Source.list](#1-adding-repo-sourcelist)
