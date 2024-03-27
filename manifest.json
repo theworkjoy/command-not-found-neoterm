@@ -8,7 +8,6 @@
         "Homepage": "https://www.theworkjoy.com",
         "Description": "This is the command-not-found-neoterm package It's ported version of kali command-not-found."
     },
-    "control_files_dir": "control-files-dir/",
     "installation_prefix": "/data/data/io.neoterm/files/usr",
     "data_files": {
         "bin/command-not-found": {
